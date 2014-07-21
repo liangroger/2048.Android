@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="c2">#ffcc99</color>
+    <color name="c4">#ffcc66</color>
+    <color name="c8">#ffcc99</color>
+    <color name="c16">#ffcc66</color>
+    <color name="c32">#ffcc99</color>
+    <color name="c64">#ffcc66</color>
+    <color name="c128">#ffcc99</color>
+    <color name="c256">#ffcc66</color>   
+    <color name="c512">#ffcc99</color>
+    <color name="c1024">#ffcc66</color>
+    <color name="c2048">#ffcc99</color>
+    
+    <color name="pane_bg">#bbada0</color>
+    <color name="grid_bg">#ccc0b3</color>
+</resources>

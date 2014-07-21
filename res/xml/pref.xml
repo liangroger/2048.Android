@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory android:title="设置">
+          <ListPreference
+                android:key="list_preference"
+                android:title="宫格数"
+                android:entries="@array/list_preference"
+                android:entryValues="@array/list_preference_value"   
+                android:summary="4*4"                             
+                android:dialogTitle="选择宫格数" />
+          <ListPreference
+                android:key="list_preference2"
+                android:title="图案"
+                android:entries="@array/list_preference2"
+                android:entryValues="@array/list_preference_value"   
+                android:summary="2048"                                 
+                android:dialogTitle="选择显示图案" />          
+    </PreferenceCategory>    
+</PreferenceScreen>
